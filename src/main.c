@@ -8,7 +8,7 @@
 
 #define and &&
 #define or ||
-#define FPS 60.0f
+#define FPS 10.0f
 typedef enum : char { false, true } bool;
 
 struct termios orig_termios;
